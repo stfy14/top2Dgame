@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Terrain
+  - Weapon
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Terrain
+  - Water
+  - UI
+  - Decorative
+  - Player
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 4248502297
+    locked: 0
+  - name: Terrain
+    uniqueID: 2662629467
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: GamePlay
+    uniqueID: 1547947767
+    locked: 0
+  - name: UI
+    uniqueID: 3721722113
+    locked: 0
+  m_RenderingLayers:
+  - Default
